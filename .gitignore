@@ -1,0 +1,37 @@
+# Reports and generated scan outputs
+/reports/
+*.html
+
+# Python Virtual Environments
+/.venv/
+/venv/
+ENV/
+env/
+
+# Python byte-code and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local credentials and environment configurations
+.env
+.env.*
+!.env.example
+
+# Logs and lock files
+*.log
+setup.lock
+gcm-diagnose.log
+
+# Build output and packaging
+/build/
+/dist/
+*.egg-info/
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/

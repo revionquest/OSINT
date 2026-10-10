@@ -1,0 +1,87 @@
+NICKNAME OSINT — LİSANS VE ÜÇÜNCÜ TARAF BİLDİRİMLERİ
+
+GÜNCEL DAĞITIM: GNU GPL SÜRÜM 3 (GPL-3.0-only)
+29 Eylül 2026 tarihli bu dağıtım, GNU General Public License sürüm 3 altında
+sunulur. Tam lisans metni aynı klasördeki LICENSE dosyasındadır.
+Dağıtım lisansı, aşağıdaki bileşenlerin kendi telif ve lisans bildirimlerini
+ortadan kaldırmaz. Daha önce verilmiş MIT izinleri de geri alınmaz.
+
+Aşağıdaki MIT metinleri, önceden MIT ile sunulmuş Nickname OSINT kodu ve
+Sherlock verileri üzerindeki ayrı izinleri korur. Ana dağıtım GPLv3'tür;
+bu metinler, GPL kapsamındaki dağıtımın bütününü MIT olarak etiketlemez.
+
+ÖNCEDEN MIT İLE SUNULMUŞ NICKNAME OSINT KODUNA AİT BİLDİRİM
+
+MIT License
+
+Copyright (c) 2026 Nickname OSINT contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+SHERLOCK SITE VERITABANI
+https://github.com/sherlock-project/sherlock
+
+MIT License
+
+Copyright (c) 2019 Sherlock Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+ÜÇÜNCÜ TARAF KÜTÜPHANELER
+Bu ZIP aşağıdaki kütüphanelerin kodunu içermez; kurulumda pip ile indirilir.
+Kütüphaneler kendi lisanslarını ve bildirimlerini korur. Ayrı indirilmesi,
+birleşik bir dağıtım hazırlanırken uygulanabilir lisans yükümlülüklerini
+ortadan kaldırmaz. Kütüphane veya tarayıcıları ayrıca paketlersen bunlara
+ait lisans ve kaynak kod sağlama koşullarını da karşılamalısın.
+
+undetected-chromedriver — GNU GPL v3
+https://github.com/ultrafunkamsterdam/undetected-chromedriver
+Selenium — Apache License 2.0
+https://github.com/SeleniumHQ/selenium
+Beautiful Soup — MIT
+https://www.crummy.com/software/BeautifulSoup/
+setuptools — MIT
+https://github.com/pypa/setuptools
+
+Chrome for Testing / ChromeDriver bu ZIP'te yer almaz. İndirilen tarayıcı
+ve sürücünün kendi lisansları ve üçüncü taraf bildirimleri geçerlidir.
+
+Lisans bildirimi güncellemesi: 2026-09-29. Tarama davranışı değiştirilmedi.
+
+2026-09-30 değişikliği: Windows kurulum ve başlatma akışı güncellendi;
+kurulum.py ve kurulum.bat eklendi. Yeni kurulum kodu ana dağıtım gibi
+GPL-3.0-only altında sunulur. Tarama motorunun davranışı değiştirilmedi.
