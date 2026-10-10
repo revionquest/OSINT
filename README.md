@@ -131,3 +131,6 @@ Bu `index.html` dosyasını herhangi bir web tarayıcısında (Chrome, Brave, Fi
 Bu proje **GNU General Public License v3.0 (GPL-3.0-only)** ile lisanslanmıştır. Tam lisans şartları için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 
 Proje bünyesinde yer alan üçüncü taraf kütüphanelerin ve Sherlock veritabanının telif ve lisans bildirimleri için [LISANSLAR.txt](LISANSLAR.txt) dosyasını inceleyebilirsiniz.
+
+
+(Revion.quest adına geliştirilmiştir)
